@@ -1,0 +1,7 @@
+{
+  "name": "MagicPix: Kids' Art Studio",
+  "description": "A magical AI-powered photo generator and editor designed specifically for creative kids. Draw, remix, and have fun!",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
